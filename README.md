@@ -20,15 +20,15 @@ Licenced under the GNU AFFERO GENERAL PUBLIC LICENSE (v3). See: LICENCE.txt
 	<head>
 	    <meta charset="utf-8">
 	    <title>Contact Form</title>
-	    <meta name="author" content="Elliot J. Reed" />
-	    <meta name="description" content="An example of an HTML form using pure JavaScript AJAX to post data to PHP. This example is a contact form, using PHP's mail function to send the email to a specified email address." />
+	    <meta name="author" content="Richardson Oge" />
+	    <meta name="description" content="An example of an HTML form using pure JavaScript AJAX to send data and upload any number of images using pure Javascript(JS), AJAX and PHP." />
 	    <link rel="stylesheet" href="styles.css">
 	</head>
 
 	<body>
 
 	    <header role="banner">
-	        <h1>Contact Us</h1>
+	        <h1>Form: Contact Us</h1>
 	        <p>We would love to hear from you. Please fill out the form below to get in touch with us.</p>
 	    </header>
 
